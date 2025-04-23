@@ -27,7 +27,7 @@ Thank you to our mentors at Warsaw University of Technology and our supporters f
 ---
 
 ### Team Activity 📊
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TADROID-FRC&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=10598-TADroid&show_icons=true&theme=radical)
 
 ### Achievements 🏅
 [![2025 Bosphorus Regional Champions](https://img.shields.io/badge/2025%20Bosphorus%20Regional-Champions-blue)](http://www.tadroid.pl)
